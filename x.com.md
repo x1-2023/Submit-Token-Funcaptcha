@@ -1,3 +1,4 @@
+```
 var anyCaptchaToken = [[TOKEN]];
 
 // Tạo một hàm để gửi token
@@ -38,3 +39,4 @@ window.addEventListener('message', function(event) {
         console.error("Error parsing message:", error);
     }
 }, false);
+```
